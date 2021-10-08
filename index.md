@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Prakrit Jayakumar
+
+Welcome to my website for DS105.
 
 You can use the [editor on GitHub](https://github.com/prakritj/reimagined-tribble/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
